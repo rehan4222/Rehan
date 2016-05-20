@@ -1,0 +1,17 @@
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe.config
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.Form1.resources
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.Cache
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.exe
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\obj\Debug\Triangle.Form1.resources
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.Cache
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\Aamir Sultan Malik\Downloads\Triangle\Triangle\obj\Debug\Triangle.pdb
